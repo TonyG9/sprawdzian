@@ -1,0 +1,8 @@
+diff --cc wariant2.txt
+index 0000000,d88ac80..717aae4
+mode 000000,100644..100644
+--- a/wariant2.txt
++++ b/wariant2.txt
+@@@ -1,0 -1,1 +1,1 @@@
+ -Wersja pierwsza
+++Wersja główna
