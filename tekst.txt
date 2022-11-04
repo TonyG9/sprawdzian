@@ -1,0 +1,10 @@
+cd /c/Users/2TP2/Documents
+mkdir Spr_git_Antoni_Wiercinski
+cd \Spr_git_Antoni_Wiercinski
+git init
+touch tekst.txt
+git status
+git add .
+git commit -m ”Początek projektu”
+ 
+
